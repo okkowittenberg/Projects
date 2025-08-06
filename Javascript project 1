@@ -5,6 +5,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/okkowittenberg/Projects.git
 git push -u origin main
+git branch -d main
 
 let keycard = 'rainbow';
 let vaccinated = true;
